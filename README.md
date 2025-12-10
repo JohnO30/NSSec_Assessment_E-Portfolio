@@ -70,7 +70,7 @@ Each lab contains:
 
 ## Key Learning Areas
 
-Throughout this module, I have developed expertise in:
+Throughout this module, I have developed knowledge in:
 
 - **Cryptography:** Symmetric & asymmetric encryption, hashing algorithms
 - **Password Security:** Strength evaluation, entropy analysis
@@ -87,6 +87,19 @@ Throughout this module, I have developed expertise in:
 - **Libraries:** cryptography, hashlib, pefile, yara-python, wapiti3, ollama, requests, socket
 - **Tools:** Wapiti, Ollama, Process Monitor
 - **Environments:** Jupyter Notebooks, Windows
+
+
+AI Declaration: I acknowledge the use of AI tools in this portfolio. ChatGPT(OpenAI,2025) and Grammarly(Grammarly Inc,2025) were used to assist in grammar and structure improvements. ChatGPT was also used for debugging. ChatGPT was accessed in November/December 2025 with the prompts:
+
+"Explain to me how I can structure this better?"
+" Why have I got this error message and how do I fix it?"
+
+References: OpenAI (2025) ChatGPT [Generative AI model]. Available at: https://chat.openai.com/ (Accessed: November/December 2025).
+
+Grammarly Inc. (2025) Grammarly [AI grammar checking tool]. Available at: https://www.grammarly.com/ (Accessed: November/December 2025).
+
+
+
 
 ## Contact
 
