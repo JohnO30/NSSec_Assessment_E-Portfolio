@@ -68,6 +68,22 @@ Each lab contains:
 - Performance benchmarking of AI models
 - Practical AI applications in cybersecurity
 
+## [Lecture Notes](Lecture%20Notes/)
+
+This section contains comprehensive lecture materials covering the theoretical foundations and advanced concepts in Network and System Security:
+
+- **Week 1:** Introduction to Network & System Security
+- **Week 2:** Public Key Cryptography & RSA
+- **Week 3:** Password Security & Authentication
+- **Week 4:** File Integrity & Hashing
+- **Week 5:** Web Application Security
+- **Week 6:** Malware Analysis Fundamentals
+- **Week 7:** Network Reconnaissance & Scanning
+- **Week 8:** Advanced Security Topics
+- **Week 9:** AI & Machine Learning in Cybersecurity
+
+These lecture notes provide the theoretical foundation that complements the practical laboratory exercises.
+
 ## Key Learning Areas
 
 Throughout this module, I have developed knowledge in:
